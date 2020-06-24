@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\eng\eng\bin\Debug\eng.exe.config
+C:\Users\user\source\repos\eng\eng\bin\Debug\eng.exe
+C:\Users\user\source\repos\eng\eng\bin\Debug\eng.pdb
+C:\Users\user\source\repos\eng\eng\obj\Debug\eng.csprojAssemblyReference.cache
+C:\Users\user\source\repos\eng\eng\obj\Debug\eng.Form1.resources
+C:\Users\user\source\repos\eng\eng\obj\Debug\eng.Properties.Resources.resources
+C:\Users\user\source\repos\eng\eng\obj\Debug\eng.csproj.GenerateResource.cache
+C:\Users\user\source\repos\eng\eng\obj\Debug\eng.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\eng\eng\obj\Debug\eng.exe
+C:\Users\user\source\repos\eng\eng\obj\Debug\eng.pdb
+C:\Users\user\source\repos\eng\eng\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\eng\eng\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\eng\eng\obj\Debug\eng.csproj.CopyComplete
